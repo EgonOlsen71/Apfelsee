@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Apfelsee", "Apfelsee\Apfelsee.pyproj", "{AC8A93EB-3FD3-40ED-995B-B824778F4B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8A93EB-3FD3-40ED-995B-B824778F4B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8A93EB-3FD3-40ED-995B-B824778F4B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5101D21B-6BFA-47ED-96E1-972B29235AE3}
+	EndGlobalSection
+EndGlobal
